@@ -1,0 +1,4 @@
+interface:
+  display_name: "소상공인 노무 카드뉴스"
+  short_description: "실제 사장님 질문으로 노무 카드뉴스를 제작합니다"
+  default_prompt: "Use $create-small-business-labor-cardnews to create and review a practical Korean labor card-news campaign."
